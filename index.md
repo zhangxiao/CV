@@ -23,7 +23,6 @@ September 2010~June 2014   Bachelor of Engineering in Communication
 2.     Study on Measuring Cognitive Load in Infrared Touchscreen-Based Human Computer Interaction 
 3.     Study on Work Stress Measurement for Computer Numerical Control Applications with E4 wristband
 
-
 ### Honors and Awards:                                                                                 
 2016   Top 5 
       Siemens Global University Challenge 2016 – Enabling the Digital Twin 
