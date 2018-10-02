@@ -1,6 +1,6 @@
 ## XIAO ZHANG
 
-PhD at Tsinghua University
+I am a PhD at Tsinghua University. I am interested in human computer interaction and health.
 
 
 ### Personal Informantion
