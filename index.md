@@ -4,38 +4,37 @@ PhD at Tsinghua University
 
 
 ### Personal Informantion
-#### Nationality: People’s Republic of China
-#### Gender: Female
-#### Address: Tsinghua University, No.30, Shuangqing Road, Haidian District, Beijing,100084, P.R.China
-#### Email: zhangxiao14@mails.tsinghua.edu.cn
+Nationality: People’s Republic of China
+Gender: Female
+Address: Tsinghua University, No.30, Shuangqing Road, Haidian District, Beijing,100084, P.R.China
+Email: zhangxiao14@mails.tsinghua.edu.cn
+
+### Education:                                                                                  
+September 2014~Present   Ph.D. Candidate in Computer Science 
+    Research Institute of Information Technology, Tsinghua University
+September 2010~June 2014   Bachelor of Engineering in Communication
+    School of Communication Engineering, Xidian University
+    
+### Research Experience:                                                                          
+2014~Present  Graduate Research
+       Advisor: Yongqiang Lyu, Yuanchun Shi
+       Projects include:
+1.     Study on Real-time Cognitive Load Measurement in Game Playing 
+2.     Study on Measuring Cognitive Load in Infrared Touchscreen-Based Human Computer Interaction 
+3.     Study on Work Stress Measurement for Computer Numerical Control Applications with E4 wristband
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Honors and Awards:                                                                                 
+2016   Top 5 
+      Siemens Global University Challenge 2016 – Enabling the Digital Twin 
 
-```markdown
-Syntax highlighted code block
+### Papers and Patents:                                                                                           
+Accepted Paper:
+       Evaluating Photoplethysmogram as a Real-time Cognitive Load Assessment during Game Playing, International Journal of Human–Computer Interaction
+       Measuring Cognitive Load in Infrared Touchscreen-Based Human Computer Interaction, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp)
+Submitted Paper:
+        Photoplethysmogram-based Real-Time Cognitive Load Assessment Using Multi-Feature Fusion Model, IEEE Transactions on Affective Computing
+Patents:
+ Touch Interaction Mode Allowing Perception of Feelings of User
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangxiao/zhangxiao.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
