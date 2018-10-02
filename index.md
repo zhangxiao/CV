@@ -34,9 +34,11 @@ Accepted Paper:
 2. Measuring Cognitive Load in Infrared Touchscreen-Based Human Computer Interaction, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp)
 
 Submitted Paper:
+
 3. Photoplethysmogram-based Real-Time Cognitive Load Assessment Using Multi-Feature Fusion Model, IEEE Transactions on Affective Computing
 
 Patents:
+
 4. Touch Interaction Mode Allowing Perception of Feelings of User
 
 
