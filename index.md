@@ -2,13 +2,12 @@
 
 PhD at Tsinghua University
 
-### PERSONAL INFORMATION
 
-### Nationality: People’s Republic of China
-### Gender: Female
-
-### Address: Tsinghua University, No.30, Shuangqing Road, Haidian District, Beijing,100084, P.R.China
-### Email: zhangxiao14@mails.tsinghua.edu.cn
+### Personal Informantion
+#### Nationality: People’s Republic of China
+#### Gender: Female
+#### Address: Tsinghua University, No.30, Shuangqing Road, Haidian District, Beijing,100084, P.R.China
+#### Email: zhangxiao14@mails.tsinghua.edu.cn
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
