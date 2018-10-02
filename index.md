@@ -32,8 +32,10 @@ September 2010~June 2014   Bachelor of Engineering in Communication
 Accepted Paper:
 1. Evaluating Photoplethysmogram as a Real-time Cognitive Load Assessment during Game Playing, International Journal of Human–Computer Interaction
 2. Measuring Cognitive Load in Infrared Touchscreen-Based Human Computer Interaction, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp)
+
 Submitted Paper:
 3. Photoplethysmogram-based Real-Time Cognitive Load Assessment Using Multi-Feature Fusion Model, IEEE Transactions on Affective Computing
+
 Patents:
 4. Touch Interaction Mode Allowing Perception of Feelings of User
 
