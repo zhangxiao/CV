@@ -5,7 +5,9 @@ I am a PhD at Tsinghua University. I am interested in human computer interaction
 
 ### Personal Informantion
 Nationality: People’s Republic of China
+
 Gender: Female
+
 Address: Tsinghua University, No.30, Shuangqing Road, Haidian District, Beijing,100084, P.R.China
 
 Email: zhangxiao14@mails.tsinghua.edu.cn
